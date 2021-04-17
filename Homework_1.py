@@ -1,5 +1,4 @@
 import datetime
-
 # ================================= Task 1 =======================================
 # Get input from user as number
 while True:
